@@ -1,5 +1,10 @@
-	
+body{
+margin:0;
+padding:0;
+background:#B3F3EDt;
 
+
+}
 .ct{
 margin-left:35px;
 margin-top:20px;
@@ -79,13 +84,7 @@ height:100%;width:38%;right:-10px;position:absolute;top:0;z-index:-1000;
 }
 @media(max-width: 968px) {
 /* For mobile phones: */
-body{
-margin:0;
-padding:0;
-background:url(pages/bg.png)!important;
-background-size: 100vh  !important;;
 
-}
 .ct{
 margin-left:50px;
 margin-top:35px;
